@@ -17,7 +17,7 @@
     "@react-native-community/picker": "^1.5.1",
     "@react-navigation/drawer": "^5.7.7",
     "@react-navigation/native": "^5.4.2",
-    "@react-navigation/stack": "^5.3.9",
+    "@react-navigation/stack": "^5.14.3",
     "axios": "^0.19.2",
     "base-64": "^0.1.0",
     "exalicense-client": "^0.1.5",
